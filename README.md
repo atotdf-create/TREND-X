@@ -12,37 +12,37 @@
 </p>
 
 
-# TRENDEX BOTZ INC.❤️
+# TDF BOTZ INC.❤️
 
-[![Sponsor Trendex](https://img.shields.io/badge/Sponsor-trendex2030-important)](https://github.com/sponsors/trendex2030)
+[![Sponsor Tdf](https://img.shields.io/badge/Sponsor-Tdf2030-important)](https://github.com/sponsors/tdf2030)
 
 
 <p align="center">
-  <a href="https://github.com/trendex2030">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=TREND+E+X;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="trendex2030Readme">
+  <a href="https://github.com/tdf2030">
+    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=TREND+E+X;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="tdf2030Readme">
   </a>
 </p>
 
 
 <p align="center">
-<a href="https://github.com/trendex2030"><img title="Author" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/tdf2030"><img title="Author" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif?style=for-the-badge&logo=github"></a>
 
 
 
 ***
 
 <p align="center">
-  <a href="https://github.com/trendex2030"><img title="Developer" src="https://img.shields.io/badge/Author-trendex%20king-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/tdf2030"><img title="Developer" src="https://img.shields.io/badge/Author-tdf%20king-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6b7ZdF6sn4Vmjf2X1O)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6jdhy4tRrzTV7h6q3U)
 </div>
 
 
 <p align="center">
-  <a href="https://github.com/trendex2030/TREND-X"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/tdf2030/TREND-X"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 ---
@@ -51,13 +51,13 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/trendex2030/TREND-X/fork"><img title="TREND-X" src="https://img.shields.io/badge/FORK-TREND%20E%20X-h?color=purple&style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/tdf2030/TREND-X/fork"><img title="TDF-TECH" src="https://img.shields.io/badge/FORK-TDF%20E%20X-h?color=purple&style=for-the-badge&logo=github"></a>
 
 ### 2. GET SESSION ID SERVER 
 
-You will need a session ID to run TREND-X. Click the button below to obtain your session ID:
+You will need a session ID to run TDF. Click the button below to obtain your session ID:
 
-<a href='https://trendxpaihtml-4cfeb9a41a27.herokuapp.com/' target="_blank">
+<a href='https://tdfpaihtml-4cfeb9a41a27.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 <br>
@@ -73,12 +73,12 @@ You will need a session ID to run TREND-X. Click the button below to obtain your
 
 <h4 align="left">1. 𝐇𝐄𝐑𝐎𝐊𝐔</h4>
 <p align="left">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/trendex2030/TREND-X' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/trendex2030/TDF-TECH' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 </p>
 
 <h4 align="left">2. 𝐊𝐎𝐘𝐄𝐁</h4>
 <p align="left">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=trendex2030/TREND-X&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=tdf2030/TDF-TECH&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 </p>
 
 <h4 align="left">3. 𝐑𝐀𝐈𝐋𝐖𝐀𝐘𝐒</h4>
