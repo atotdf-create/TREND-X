@@ -144,7 +144,7 @@ You will need a session ID to run TDF. Click the button below to obtain your ses
     </a>
 </p>
 
-## TRENDEX SUPPORT 
+## TDF SUPPORT 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=TREND X +MAKE; STAR ⭐+AND+FORKS+BY+TREND X" alt="Typing SVG" /></a>
 
